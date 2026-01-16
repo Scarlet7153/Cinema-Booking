@@ -27,7 +27,7 @@ const HeroSection = () => {
           <ClockIcon className="w-4 h-4" />2 giờ 8 phút
         </div>
       </div>
-      <p className="max-w-md text-gray-300">Trong một thế giới hậu tận thế nơi các thành phố di chuyển trên bánh xe và nuốt chửng lẫn nhau để tồn tại, hai người gặp nhau ở London và cố gắng ngăn chặn một âm mưu.</p>
+      <p className="max-w-md text-gray-300">Trong một thế giới hậu tận thế nơi các thành phố di chuyển trên phi thuyền và nuốt chửng lẫn nhau để tồn tại, hai người gặp nhau ở London và cố gắng ngăn chặn một âm mưu.</p>
       <button className="flex items-center gap-2 px-6 py-3 text-sm bg-primary hover:bg-primary-dull transition rounded-full font-medium cursor-pointer" onClick={() => navigate("/movies")}>
         Xem thêm
         <ArrowRight className="w-5 h-5" />
