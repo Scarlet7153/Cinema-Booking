@@ -77,7 +77,7 @@ export const dummyShowsData = [
     {
         "_id": "1232546",
         "id": 1232546,
-        "title": "Until Dawn (Cho Đến Bình Minh)",
+        "title": "Cho Đến Bình Minh",
         "overview": "Một năm sau khi em gái Melanie biến mất một cách bí ẩn, Clover và nhóm bạn tiến vào thung lũng hẻo lánh nơi cô ấy mất tích để tìm câu trả lời. Khi khám phá một trung tâm du khách bị bỏ hoang, họ bị một kẻ sát nhân đeo mặt nạ rình rập và sát hại dã man từng người một... chỉ để rồi tỉnh dậy và thấy mình quay lại thời điểm bắt đầu của buổi tối hôm đó.",
         "poster_path": "https://image.tmdb.org/t/p/original/juA4IWO52Fecx8lhAsxmDgy3M3.jpg",
         "backdrop_path": "https://image.tmdb.org/t/p/original/icFWIk1KfkWLZnugZAJEDauNZ94.jpg",
@@ -116,7 +116,7 @@ export const dummyShowsData = [
     {
         "_id": "668489",
         "id": 668489,
-        "title": "Havoc (Hỗn Loạn)",
+        "title": "Hành Trình Trong Hỗn Loạn",
         "overview": "Khi một vụ cướp ma túy đi chệch hướng ngoài tầm kiểm soát, một cảnh sát chán đời phải chiến đấu xuyên qua thế giới ngầm tội phạm của một thành phố thối nát để cứu con trai của một chính trị gia.",
         "poster_path": "https://image.tmdb.org/t/p/original/ubP2OsF3GlfqYPvXyLw9d78djGX.jpg",
         "backdrop_path": "https://image.tmdb.org/t/p/original/65MVgDa6YjSdqzh7YOA04mYkioo.jpg",
@@ -136,7 +136,7 @@ export const dummyShowsData = [
     {
         "_id": "950387",
         "id": 950387,
-        "title": "A Minecraft Movie (Phim Minecraft)",
+        "title": "Phim Minecraft",
         "overview": "Bốn kẻ lạc loài đang vật lộn với những vấn đề thường ngày thì bất ngờ bị hút qua một cánh cổng bí ẩn vào Overworld: một xứ sở thần tiên hình khối kỳ quái phát triển nhờ trí tưởng tượng. Để trở về nhà, họ phải làm chủ thế giới này đồng thời dấn thân vào một nhiệm vụ kỳ diệu với một thợ chế tạo chuyên nghiệp đầy bất ngờ, Steve.",
         "poster_path": "https://image.tmdb.org/t/p/original/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
         "backdrop_path": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
@@ -157,7 +157,7 @@ export const dummyShowsData = [
     {
         "_id": "575265",
         "id": 575265,
-        "title": "Mission: Impossible - The Final Reckoning (Nhiệm Vụ Bất Khả Thi: Nghiệp Báo Cuối Cùng)",
+        "title": "Nhiệm Vụ Bất Khả Thi: Nghiệp Báo Cuối Cùng",
         "overview": "Ethan Hunt và đồng đội tiếp tục tìm kiếm AI đáng sợ được gọi là Thực Thể — thứ đã xâm nhập vào các mạng lưới tình báo trên toàn cầu — trong khi bị các chính phủ trên thế giới và một bóng ma bí ẩn trong quá khứ của Hunt truy đuổi. Cùng với những đồng minh mới và được trang bị phương tiện để tắt Thực Thể mãi mãi, Hunt chạy đua với thời gian để ngăn chặn thế giới mà chúng ta biết bị thay đổi vĩnh viễn.",
         "poster_path": "https://image.tmdb.org/t/p/original/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
         "backdrop_path": "https://image.tmdb.org/t/p/original/1p5aI299YBnqrEEvVGJERk2MXXb.jpg",
@@ -221,7 +221,7 @@ export const dummyDateTimeData = {
 
 export const dummyDashboardData = {
     "totalBookings": 14,
-    "totalRevenue": 15170000, // Đã đổi sang 15.170.000 VND
+    "totalRevenue": 15170000, 
     "totalUser": 5,
     "activeShows": [
         {
